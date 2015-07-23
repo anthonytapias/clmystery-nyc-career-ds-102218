@@ -1,8 +1,3 @@
----
-  tags: tutorial, command line, shell, beginner, bonus
-  languages: bash
----
-
 # The Command Line Murders
 
 ### Skills: Bash
