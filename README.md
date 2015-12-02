@@ -82,3 +82,5 @@ or
 ```bash
 open hint1
 ```
+
+<a href='https://learn.co/lessons/clmystery' data-visibility='hidden'>View this lesson on Learn.co</a>
