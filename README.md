@@ -83,4 +83,4 @@ or
 open hint1
 ```
 
-<a href='https://learn.co/lessons/clmystery' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/clmystery' title='The Command Line Murders'>The Command Line Murders</a> on Learn.co and start learning to code for free.</p>
