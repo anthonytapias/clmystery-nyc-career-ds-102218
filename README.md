@@ -83,4 +83,6 @@ or
 open hint1
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/clmystery' title='The Command Line Murders'>The Command Line Murders</a> on Learn.co and start learning to code for free.</p>
+### Credit
+
+Original [CLI Mystery by Noah Veltman](https://github.com/veltman/clmystery/)
